@@ -1,0 +1,9 @@
+.left{
+    position: relative;
+    top: 90px;
+}
+.modal{
+    position: relative;
+    top: -100px;
+}
+
